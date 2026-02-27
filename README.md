@@ -8,4 +8,4 @@ Consiste em um site que gera memes, citações, piadas e ate mesmo charadas com 
 HTML que são gerados a partir de botões que executam uma função em JavaScript que se comunica com a estrutura de HTML a partir do DOM.
 
 Foi usando também a função alert, para quando o usuario pedir a resposta de uma charada e não tiver solicitado a charada antes, ou se a resposta já está aparente e o usuário aperta de novo no mesmo botão,
-para fazer isso utilizei um série de operadores lógicos e a instãncia hidden do DOM.
+para fazer isso utilizei um série de operadores lógicos e a instância hidden do DOM.
